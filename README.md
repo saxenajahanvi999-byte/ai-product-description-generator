@@ -11,6 +11,13 @@ E-commerce platforms often manage thousands of product listings. Writing consist
 ## Solution
 This project uses generative AI to convert structured product attributes into clear and engaging product descriptions. The tool helps automate content creation and maintain consistent product information across listings.
 
+## How It Works
+
+1. User inputs product attributes such as name, category, and key features.
+2. A structured prompt is created for the AI model.
+3. The AI generates a clear and engaging product description.
+4. The generated output can be used directly in e-commerce product listings.
+
 ## Example Input
 Product Name: Wireless Bluetooth Headphones  
 Category: Electronics  
